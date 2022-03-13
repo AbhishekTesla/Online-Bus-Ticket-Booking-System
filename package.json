@@ -1,0 +1,17 @@
+{
+  "name": "onlinebusproject",
+  "version": "1.0.0",
+  "description": "This is online bus ticket booking web",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Abhishek jaiswar\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001bk\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "firebase-admin": "^10.0.2",
+    "nodemon": "^2.0.15"
+  }
+}
